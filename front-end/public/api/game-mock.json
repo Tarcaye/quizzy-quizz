@@ -1,0 +1,15 @@
+{
+  "mysterious-match": {
+    "domicile": {
+      "name": "Liverpool FC",
+      "img-url": "liverpool.png"
+    },
+    "exterieur": {
+      "name": "Milan AC",
+      "img-url": "milan.png"
+    },
+    "date": "2005-06-06",
+    "lieu": "DTC, France",
+    "score": "2-2"
+  }
+}
