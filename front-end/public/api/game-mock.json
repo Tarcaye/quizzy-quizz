@@ -8,8 +8,12 @@
       "name": "Milan AC",
       "img-url": "milan.png"
     },
-    "date": "2005-06-06",
-    "lieu": "DTC, France",
-    "score": "2-2"
+    "date": "2005-05-25",
+    "location": {
+      "statidum":	"Stade Olympique Atatürk",
+      "city":	"Istanbul", 
+      "nation": "Turquie"
+    },
+    "score": "3-3"
   }
 }
